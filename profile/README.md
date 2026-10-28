@@ -1,41 +1,49 @@
 <a href="https://liveblog.ai"><img src="https://raw.githubusercontent.com/liveblogai/.github/main/profile/banner.svg" alt="LiveblogAI — Live coverage. On your site." width="1200" /></a>
 
-<p align="center">
-  <a href="https://liveblog.ai"><strong>Explore LiveblogAI</strong></a> ·
-  <a href="https://github.com/liveblogai/wordpress-plugin">WordPress plugin</a> ·
-  <a href="mailto:support@liveblog.ai">Get in touch</a>
-</p>
+# Welcome to LiveblogAI 👋
 
-### Built for the moments that keep moving
+**A live publishing platform for newsrooms, editorial teams, and content teams.**
 
-**LiveblogAI is a live publishing platform for newsrooms, publishers, and content teams.** Collaborate on coverage and bring real-time updates to readers on your own website — from breaking news and sports to product launches and market events.
+From gathering source material and collaborating on stories to reviewing and publishing updates, LiveblogAI helps teams cover events as they unfold and bring live coverage to their own websites.
 
-Your team owns the story. Your site is where it lives.
+[Website](https://liveblog.ai) · [Follow on X](https://x.com/liveblogai) · [Contact us](mailto:support@liveblog.ai)
 
-### Start with WordPress
+## What is this GitHub organization for?
 
-[**LiveblogAI for WordPress →**](https://github.com/liveblogai/wordpress-plugin)
+This organization is primarily used to publish **LiveblogAI's public companion tools, integration components, and example projects**, helping developers connect LiveblogAI to their existing websites and content workflows.
 
-Bring public LiveblogAI coverage to WordPress with a native editor block or a shortcode. Server-rendered initial content is followed by real-time browser updates; JavaScript mode is available for sites with full-page caching.
+Each repository provides its own usage instructions, license, and contribution guidelines. Issues and pull requests are welcome for bug reports, suggestions, and improvements.
 
-| For publishers                                      | For developers                                     |
-| :-------------------------------------------------- | :------------------------------------------------- |
-| Add coverage with a block or `[liveblog]` shortcode | Build the plugin independently from source         |
-| Preview coverage before publishing                  | Inspect the PHP, TypeScript, and embed integration |
-| Choose server rendering or JavaScript mode          | Contribute under GPL-2.0-or-later                  |
+**The core LiveblogAI platform is not open source in this organization.** Visit [liveblog.ai](https://liveblog.ai) for product and service information.
 
-[Installation & usage](https://github.com/liveblogai/wordpress-plugin#usage) · [Build from source](https://github.com/liveblogai/wordpress-plugin#build-from-source) · [Report an issue](https://github.com/liveblogai/wordpress-plugin/issues)
+## What are we building?
 
-### Open integrations, focused scope
+### 📝 Collaborative editing and content management
 
-This organization is home to LiveblogAI's public integrations. The WordPress plugin is open source; the hosted LiveblogAI platform and reader runtime are separate from the plugin repository and its license. A public LiveblogAI liveblog is required to use the plugin.
+A shared workspace for each liveblog. Reporters and editors can collaborate in real time, organize links, images, and text, and create coverage with rich media and structured information.
 
-### Help make live coverage better
+### 📣 Review and publishing
 
-Found a bug, have a WordPress compatibility report, or want to improve the integration? [Open an issue](https://github.com/liveblogai/wordpress-plugin/issues) or contribute a pull request in the plugin repository.
+Manage the workflow from draft to publication, including editorial review, scheduled publishing, and subsequent corrections. Keep the team informed about coverage progress while retaining editorial control.
 
-For product questions and live coverage workflows, contact [support@liveblog.ai](mailto:support@liveblog.ai).
+### 🌐 Live coverage on your own website
 
----
+Embed coverage into your existing website so readers can follow updates without repeatedly refreshing the page. Adapt the reading experience with themes, colors, and light or dark mode, and keep coverage available for replay after the event ends.
 
-<p align="center"><strong>Follow LiveblogAI</strong> for public integrations and updates.<br /><a href="https://liveblog.ai">liveblog.ai</a> · <a href="https://x.com/liveblogai">@liveblogai</a></p>
+### 🔌 Connect your team's own agents
+
+Use MCP and Skills to let your own agents access content management capabilities within existing permissions and publishing rules. Your team chooses the models and how agents run; the complete manual reporting workflow works without AI.
+
+## Built for events that keep moving
+
+⚽ **Sports** · 📰 **Breaking news** · 🎤 **Product launches** · 📈 **Market events**
+
+Turn individual updates into a complete story that readers can follow as it unfolds and revisit afterward.
+
+## Get in touch 💬
+
+We'd love to hear from journalists, editors, publishers, and developers about what they need from live coverage.
+
+- 🌍 Visit [liveblog.ai](https://liveblog.ai)
+- 👀 Follow [@liveblogai](https://x.com/liveblogai) on X
+- ✉️ Contact [support@liveblog.ai](mailto:support@liveblog.ai)
