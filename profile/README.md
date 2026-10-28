@@ -47,6 +47,8 @@ Use MCP and Skills to let your own agents access content management capabilities
 
 Turn individual updates into a complete story that readers can follow as it unfolds and revisit afterward.
 
+---
+
 <p align="center">Find us on other platforms</p>
 
 <p align="center">
