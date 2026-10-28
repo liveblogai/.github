@@ -47,12 +47,10 @@ Use MCP and Skills to let your own agents access content management capabilities
 
 Turn individual updates into a complete story that readers can follow as it unfolds and revisit afterward.
 
-<h2 align="center">Get in touch 💬</h2>
-
-<p align="center">We'd love to hear from journalists, editors, publishers, and developers about what they need from live coverage.</p>
+<p align="center">Find us on other platforms</p>
 
 <p align="center">
-  🌍 Visit <a href="https://liveblog.ai">liveblog.ai</a><br />
-  👀 Follow <a href="https://x.com/liveblogai">@liveblogai</a> on X<br />
-  ✉️ Contact <a href="mailto:support@liveblog.ai">support@liveblog.ai</a>
+  <a href="https://liveblog.ai">Website</a> ·
+  <a href="https://x.com/liveblogai">X</a> ·
+  <a href="https://www.youtube.com/@liveblogai">YouTube</a>
 </p>
