@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://liveblog.ai"><img src="https://raw.githubusercontent.com/liveblogai/.github/main/profile/banner-dark.svg#gh-dark-mode-only" alt="LiveblogAI — Live coverage. On your site." width="1200" /></a>
-  <a href="https://liveblog.ai"><img src="https://raw.githubusercontent.com/liveblogai/.github/main/profile/banner-light.svg#gh-light-mode-only" alt="LiveblogAI — Live coverage. On your site." width="1200" /></a>
+  <a href="https://liveblog.ai#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/liveblogai/.github/main/profile/banner-dark.svg#gh-dark-mode-only" alt="LiveblogAI — Live coverage. On your site." width="1200" /></a>
+  <a href="https://liveblog.ai#gh-light-mode-only"><img src="https://raw.githubusercontent.com/liveblogai/.github/main/profile/banner-light.svg#gh-light-mode-only" alt="LiveblogAI — Live coverage. On your site." width="1200" /></a>
 </p>
 
 <h1 align="center">Welcome to LiveblogAI 👋</h1>
