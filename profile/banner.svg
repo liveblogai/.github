@@ -1,0 +1,146 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="360"
+  viewBox="0 0 1200 360"
+  fill="none"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">LiveblogAI — Live coverage. On your site.</title>
+  <desc id="desc">
+    LiveblogAI's colorful smile logo on warm paper, beside an illustration of a
+    live coverage timeline.
+  </desc>
+  <defs>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#e9ece6" stroke-width="1" />
+    </pattern>
+    <linearGradient
+      id="brand"
+      x1="27.7109"
+      y1="22.2901"
+      x2="191.039"
+      y2="190.805"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#E6BF24" />
+      <stop offset=".24" stop-color="#FAE261" />
+      <stop offset=".5" stop-color="#FC7EC7" />
+      <stop offset=".74" stop-color="#B3A5F5" />
+      <stop offset="1" stop-color="#A6D4E7" />
+    </linearGradient>
+    <linearGradient
+      id="highlight"
+      x1="45.6881"
+      y1="30.1218"
+      x2="167.545"
+      y2="177.196"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="white" stop-opacity=".18" />
+      <stop offset="1" stop-color="white" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect
+    x=".5"
+    y=".5"
+    width="1199"
+    height="359"
+    rx="20"
+    fill="#f8faf7"
+    stroke="#dfe0de"
+  />
+  <rect x="720" y="1" width="458" height="358" fill="url(#grid)" />
+  <g transform="translate(60 42) scale(.22)">
+    <path
+      d="M18.7224 21.1712C38.9467 4.38883 65.9125 2.15118 95.1254 7.74531C134.451 14.4583 179.393 30.1218 209.73 53.6172C228.831 68.1619 231.078 92.7761 218.719 112.915C205.236 135.292 178.27 153.193 153.551 171.094L95.1254 211.372C71.5303 228.154 41.1938 221.441 28.8345 199.065C13.1045 169.975 7.48662 133.054 2.99232 97.2514C-1.50198 62.5678 0.745172 36.8348 18.7224 21.1712Z"
+      fill="url(#brand)"
+    />
+    <path
+      d="M18.7224 21.1712C38.9467 4.38883 65.9125 2.15118 95.1254 7.74531C134.451 14.4583 179.393 30.1218 209.73 53.6172C228.831 68.1619 231.078 92.7761 218.719 112.915C205.236 135.292 178.27 153.193 153.551 171.094L95.1254 211.372C71.5303 228.154 41.1938 221.441 28.8345 199.065C13.1045 169.975 7.48662 133.054 2.99232 97.2514C-1.50198 62.5678 0.745172 36.8348 18.7224 21.1712Z"
+      fill="url(#highlight)"
+    />
+    <g stroke="#2A0F14" stroke-linecap="round">
+      <path
+        d="M73.7776 62.5679V96.1327M111.979 51.3795V96.1326"
+        stroke-width="9.375"
+      />
+      <path
+        d="M41.1938 112.915C55.8003 137.529 85.0132 149.836 115.35 147.599C138.945 146.48 158.046 138.648 172.652 126.341"
+        stroke-width="10.1562"
+      />
+    </g>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#2a0f14">
+    <text x="124" y="76" font-size="27" font-weight="700" letter-spacing="-.7">
+      LiveblogAI
+    </text>
+    <text x="64" y="161" font-size="54" font-weight="700" letter-spacing="-2">
+      Live coverage.
+    </text>
+    <rect x="58" y="181" width="342" height="65" rx="9" fill="#fae261" />
+    <text x="64" y="229" font-size="54" font-weight="700" letter-spacing="-2">
+      On your site.
+    </text>
+    <text x="64" y="292" font-size="18" fill="#544145">
+      Tools for the teams behind the story.
+    </text>
+  </g>
+  <rect
+    x="742"
+    y="55"
+    width="392"
+    height="253"
+    rx="13"
+    fill="white"
+    stroke="#dfe0de"
+  />
+  <path d="M742 108H1134" stroke="#dfe0de" />
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text
+      x="766"
+      y="87"
+      fill="#766e70"
+      font-size="12"
+      font-weight="700"
+      letter-spacing="1.6"
+    >
+      YOUR SITE
+    </text>
+    <rect x="1042" y="72" width="68" height="23" rx="11.5" fill="#fae261" />
+    <circle cx="1056" cy="83.5" r="3" fill="#2a0f14" />
+    <text x="1066" y="88" fill="#2a0f14" font-size="11" font-weight="700">
+      LIVE
+    </text>
+    <text
+      x="766"
+      y="145"
+      fill="#2a0f14"
+      font-size="22"
+      font-weight="700"
+      letter-spacing="-.5"
+    >
+      A story, as it happens.
+    </text>
+    <path d="M778 182V269" stroke="#dfe0de" stroke-width="2" />
+    <circle
+      cx="778"
+      cy="184"
+      r="6"
+      fill="#fae261"
+      stroke="#2a0f14"
+      stroke-width="1.5"
+    />
+    <circle cx="778" cy="247" r="5" fill="#e6dff9" />
+    <text x="800" y="189" fill="#2a0f14" font-size="15" font-weight="700">
+      Publish updates
+    </text>
+    <rect x="800" y="204" width="246" height="6" rx="3" fill="#f0f2ef" />
+    <rect x="800" y="217" width="172" height="6" rx="3" fill="#f0f2ef" />
+    <text x="800" y="252" fill="#544145" font-size="15">
+      Keep readers in the story
+    </text>
+    <rect x="800" y="267" width="213" height="6" rx="3" fill="#f0f2ef" />
+  </g>
+</svg>
